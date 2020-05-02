@@ -1,0 +1,446 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = E287234D145858B300423100 /* ScreenSaver */;
+		activeTarget = 8D255AC50486D3F9007BF209 /* QuasiCrystal */;
+		addToTargets = (
+			8D255AC50486D3F9007BF209 /* QuasiCrystal */,
+		);
+		breakpoints = (
+			E28723511458593800423100 /* QuasiCrystalScreenSaverView.m:174 */,
+			E2872359145859BD00423100 /* QuasiCrystalScreenSaverView.m:145 */,
+			E265D9EA145A6CEB007E5008 /* QuasiCrystalScreenSaverView.m:370 */,
+			E265D9EC145A6DE7007E5008 /* QuasiCrystalScreenSaverView.m:370 */,
+		);
+		codeSenseManager = E200D2471457B0B500BD103B /* Code sense */;
+		executables = (
+			E287234D145858B300423100 /* ScreenSaver */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					395,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					507,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					467,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353515717;
+			PBXWorkspaceStateSaveDate = 353515717;
+		};
+		perUserProjectItems = {
+			E244FF5A15154FD200413CC5 /* PBXTextBookmark */ = E244FF5A15154FD200413CC5 /* PBXTextBookmark */;
+			E244FF7B151553CF00413CC5 /* XCBuildMessageTextBookmark */ = E244FF7B151553CF00413CC5 /* XCBuildMessageTextBookmark */;
+			E244FF83151554D300413CC5 /* PBXTextBookmark */ = E244FF83151554D300413CC5 /* PBXTextBookmark */;
+			E265D9AB145A3DED007E5008 /* PBXTextBookmark */ = E265D9AB145A3DED007E5008 /* PBXTextBookmark */;
+			E265D9D0145A69B8007E5008 /* PBXTextBookmark */ = E265D9D0145A69B8007E5008 /* PBXTextBookmark */;
+			E265DA08145A758E007E5008 /* PBXTextBookmark */ = E265DA08145A758E007E5008 /* PBXTextBookmark */;
+			E287231B1458509900423100 /* PBXTextBookmark */ = E287231B1458509900423100 /* PBXTextBookmark */;
+			E287231C1458509900423100 /* PlistBookmark */ = E287231C1458509900423100 /* PlistBookmark */;
+			E287231D1458509900423100 /* PBXTextBookmark */ = E287231D1458509900423100 /* PBXTextBookmark */;
+			E287231E1458509900423100 /* PlistBookmark */ = E287231E1458509900423100 /* PlistBookmark */;
+			E2A5595C14591D090096F03D /* PBXTextBookmark */ = E2A5595C14591D090096F03D /* PBXTextBookmark */;
+		};
+		sourceControlManager = E200D2461457B0B500BD103B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 565}}";
+			sepNavSelRange = "{100, 0}";
+			sepNavVisRange = "{0, 104}";
+		};
+	};
+	32DBCFA80370C50100C91783 /* QuasiCrystalScreenSaver_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 565}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 218}";
+		};
+	};
+	8D255AC50486D3F9007BF209 /* QuasiCrystal */ = {
+		activeExec = 0;
+	};
+	E200D2461457B0B500BD103B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E200D2471457B0B500BD103B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E200D2631457B52200BD103B /* MyOpenGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {685, 469}}";
+			sepNavSelRange = "{52, 0}";
+			sepNavVisRange = "{0, 983}";
+		};
+	};
+	E200D2641457B52200BD103B /* MyOpenGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {685, 425}}";
+			sepNavSelRange = "{314, 0}";
+			sepNavVisRange = "{0, 942}";
+			sepNavWindowFrame = "{{19, 158}, {1042, 715}}";
+		};
+	};
+	E244FF5A15154FD200413CC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F50079790118B23001CA0E54 /* QuasiCrystalScreenSaverView.h */;
+		name = "QuasiCrystalScreenSaverView.h: 44";
+		rLen = 0;
+		rLoc = 1330;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 629;
+	};
+	E244FF7B151553CF00413CC5 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ':' before ']' token";
+		fRef = F500797A0118B23001CA0E54 /* QuasiCrystalScreenSaverView.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 367;
+		rType = 1;
+	};
+	E244FF83151554D300413CC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F500797A0118B23001CA0E54 /* QuasiCrystalScreenSaverView.m */;
+		name = "QuasiCrystalScreenSaverView.m: 247";
+		rLen = 0;
+		rLoc = 8206;
+		rType = 0;
+		vrLen = 1416;
+		vrLoc = 11687;
+	};
+	E265D9AB145A3DED007E5008 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E2A5594B1459131A0096F03D /* README.txt */;
+		name = "README.txt: 43";
+		rLen = 46;
+		rLoc = 1607;
+		rType = 0;
+		vrLen = 1732;
+		vrLoc = 451;
+	};
+	E265D9D0145A69B8007E5008 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E200D2631457B52200BD103B /* MyOpenGLView.h */;
+		name = "MyOpenGLView.h: 4";
+		rLen = 0;
+		rLoc = 52;
+		rType = 0;
+		vrLen = 983;
+		vrLoc = 0;
+	};
+	E265D9EA145A6CEB007E5008 /* QuasiCrystalScreenSaverView.m:370 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F500797A0118B23001CA0E54 /* QuasiCrystalScreenSaverView.m */;
+		functionName = "-configureSheet";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 370;
+		modificationTime = 341470445.66631;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	E265D9EC145A6DE7007E5008 /* QuasiCrystalScreenSaverView.m:370 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F500797A0118B23001CA0E54 /* QuasiCrystalScreenSaverView.m */;
+		functionName = "-animateOneFrame";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 370;
+		modificationTime = 353716962.359328;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	E265DA08145A758E007E5008 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E265DA09145A758E007E5008 /* NSControl.h */;
+		name = "NSControl.h: 66";
+		rLen = 0;
+		rLoc = 1752;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 1406;
+	};
+	E265DA09145A758E007E5008 /* NSControl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSControl.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSControl.h;
+		sourceTree = "<absolute>";
+	};
+	E287231B1458509900423100 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCFA80370C50100C91783 /* QuasiCrystalScreenSaver_Prefix.pch */;
+		name = "QuasiCrystalScreenSaver_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 0;
+	};
+	E287231C1458509900423100 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D255AD20486D3F9007BF209 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/rallen/Documents/Devel/Projects/QuasiCrystalScreenSaver/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E287231D1458509900423100 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 3";
+		rLen = 0;
+		rLoc = 100;
+		rType = 0;
+		vrLen = 104;
+		vrLoc = 0;
+	};
+	E287231E1458509900423100 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = E287231F1458509900423100 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/rallen/Documents/Devel/Projects/QuasiCrystalScreenSaver/build/Debug/QuasiCrystalScreenSaver.saver/Contents/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E287231F1458509900423100 /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Info.plist;
+		path = /Users/rallen/Documents/Devel/Projects/QuasiCrystalScreenSaver/build/Debug/QuasiCrystalScreenSaver.saver/Contents/Info.plist;
+		sourceTree = "<absolute>";
+	};
+	E287234D145858B300423100 /* ScreenSaver */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+			YES,
+		);
+		argumentStrings = (
+			"-module QuasiCrystal",
+			"-debug",
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = E287234E145858B400423100 /* ScreenSaverEngine.app */;
+		libgmallocEnabled = 0;
+		name = ScreenSaver;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E287234E145858B400423100 /* ScreenSaverEngine.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = ScreenSaverEngine.app;
+		path = /System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/ScreenSaverEngine.app;
+		sourceTree = "<absolute>";
+	};
+	E28723511458593800423100 /* QuasiCrystalScreenSaverView.m:174 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F500797A0118B23001CA0E54 /* QuasiCrystalScreenSaverView.m */;
+		functionName = "-setUpOpenGL";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 174;
+		location = QuasiCrystalScreenSaver;
+		modificationTime = 341367004.0596281;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	E2872359145859BD00423100 /* QuasiCrystalScreenSaverView.m:145 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F500797A0118B23001CA0E54 /* QuasiCrystalScreenSaverView.m */;
+		functionName = "-setUpShaders";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 145;
+		location = QuasiCrystalScreenSaver;
+		modificationTime = 341367004.059791;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	E2A5594B1459131A0096F03D /* README.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 1027}}";
+			sepNavSelRange = "{1607, 46}";
+			sepNavVisRange = "{451, 1732}";
+		};
+	};
+	E2A5595C14591D090096F03D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E200D2641457B52200BD103B /* MyOpenGLView.m */;
+		name = "MyOpenGLView.m: 10";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 942;
+		vrLoc = 0;
+	};
+	F50079790118B23001CA0E54 /* QuasiCrystalScreenSaverView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {685, 754}}";
+			sepNavSelRange = "{1330, 0}";
+			sepNavVisRange = "{629, 867}";
+			sepNavWindowFrame = "{{19, 158}, {1042, 715}}";
+		};
+	};
+	F500797A0118B23001CA0E54 /* QuasiCrystalScreenSaverView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 8281}}";
+			sepNavSelRange = "{8206, 0}";
+			sepNavVisRange = "{11687, 1416}";
+			sepNavWindowFrame = "{{4, 8}, {810, 729}}";
+		};
+	};
+}
